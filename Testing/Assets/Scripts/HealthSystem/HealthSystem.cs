@@ -6,7 +6,7 @@ public class HealthSystem : MonoBehaviour
 {
     public Action OnDeath;
 
-    private float CurrentHealth;
+    public float CurrentHealth;
     public float MaxHealth;
 
     [SerializeField] private Image _hp;

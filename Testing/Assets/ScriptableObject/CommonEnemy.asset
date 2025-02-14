@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   EnemyName: CommonEnemy
   Health: 100
-  Damage: 50
+  Damage: 10
