@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Testing.-1636878066.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Admin\Documents\GitHub\Testing-\Testing" t="IncludeRecursive">
+    <e p="C:\Users\maxxx\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\maxxx\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Testing.-1323777049.00" t="ExcludeRecursive" />
+    <e p="C:\Users\maxxx\OneDrive\Documents\GitHub\Testing-\Testing" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="Test2.cs" t="Include" />
+          <e p="Character" t="Include">
+            <e p="CharacterBehaviour.cs" t="Include" />
+          </e>
+          <e p="Enemy" t="Include">
+            <e p="EnemyAttack.cs" t="Include" />
+            <e p="EnemyData.cs" t="Include" />
+          </e>
+          <e p="HealthSystem" t="Include">
+            <e p="HealthSystem.cs" t="Include" />
+          </e>
+          <e p="Score" t="Include">
+            <e p="Test.cs" t="Include" />
+          </e>
         </e>
-        <e p="Test.cs" t="Include" />
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
             <e p="LiberationSans - OFL.txt" t="Include" />
