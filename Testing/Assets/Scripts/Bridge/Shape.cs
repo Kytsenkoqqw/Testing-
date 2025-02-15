@@ -1,6 +1,8 @@
-﻿namespace Bridge
+﻿using UnityEngine;
+
+namespace Bridge
 {
-    public abstract class Shape
+    public abstract class Shape : MonoBehaviour
     {
         protected Color color;
 

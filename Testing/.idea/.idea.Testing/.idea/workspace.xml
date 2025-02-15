@@ -26,8 +26,18 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Bridge/GreenColor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bridge/RedColor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bridge/BlueColor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Bridge/Shape.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/CommonEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bridge/Shape.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Composite/IUIElemet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Composite/Button.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Composite/Text.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Composite/Image.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Composite/UIContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Composite/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Composite/IUIElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Composite/ButtonTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Composite/ImageTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Composite/TextTest.cs" />
       </list>
     </option>
   </component>
@@ -70,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1738761509233</updated>
       <workItem from="1738761520445" duration="4075000" />
-      <workItem from="1739527507943" duration="6178000" />
+      <workItem from="1739527507943" duration="6521000" />
+      <workItem from="1739625375133" duration="2487000" />
     </task>
     <servers />
   </component>

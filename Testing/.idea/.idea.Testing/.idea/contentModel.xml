@@ -17,6 +17,14 @@
           <e p="Character" t="Include">
             <e p="CharacterBehaviour.cs" t="Include" />
           </e>
+          <e p="Composite" t="Include">
+            <e p="ButtonTest.cs" t="Include" />
+            <e p="ImageTest.cs" t="Include" />
+            <e p="IUIElement.cs" t="Include" />
+            <e p="TextTest.cs" t="Include" />
+            <e p="UIContainer.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
+          </e>
           <e p="Enemy" t="Include">
             <e p="CommonEnemy.cs" t="Include" />
             <e p="EnemyAttack.cs" t="Include" />
