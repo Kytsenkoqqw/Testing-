@@ -21,15 +21,21 @@
             <e p="ButtonTest.cs" t="Include" />
             <e p="ImageTest.cs" t="Include" />
             <e p="IUIElement.cs" t="Include" />
+            <e p="Soldier.cs" t="Include" />
+            <e p="Squad.cs" t="Include" />
             <e p="TextTest.cs" t="Include" />
             <e p="UIContainer.cs" t="Include" />
             <e p="UIManager.cs" t="Include" />
+            <e p="Unit.cs" t="Include" />
           </e>
           <e p="Enemy" t="Include">
             <e p="CommonEnemy.cs" t="Include" />
             <e p="EnemyAttack.cs" t="Include" />
             <e p="EnemyData.cs" t="Include" />
             <e p="RareEnemy.cs" t="Include" />
+          </e>
+          <e p="GameManager" t="Include">
+            <e p="GameManager.cs" t="Include" />
           </e>
           <e p="HealthSystem" t="Include">
             <e p="HealthSystem.cs" t="Include" />

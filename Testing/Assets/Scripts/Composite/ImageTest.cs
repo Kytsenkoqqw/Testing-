@@ -9,7 +9,6 @@ namespace Composite
         public void Render()
         {
             Debug.Log("Картинка");
-       
         }
     }
 }

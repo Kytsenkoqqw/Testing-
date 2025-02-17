@@ -8,7 +8,6 @@ namespace Composite
         public void Render()
         {
             Debug.Log("Текст");
-           
         }
     }
 }
