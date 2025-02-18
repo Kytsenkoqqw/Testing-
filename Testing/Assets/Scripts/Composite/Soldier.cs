@@ -8,9 +8,10 @@ namespace Composite
 
         public Soldier(string name, Vector3 startPosition, GameObject soldierObject)
         {
-            _soldierObject = new GameObject(name);
-            _soldierObject.transform.position = startPosition;
+        
             _soldierObject = Object.Instantiate(soldierObject, startPosition, Quaternion.identity);
+            _soldierObject.transform.position = startPosition;
+            _soldierObject.name = name;
         }
 
 

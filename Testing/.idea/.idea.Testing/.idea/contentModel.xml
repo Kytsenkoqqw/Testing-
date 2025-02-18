@@ -28,6 +28,12 @@
             <e p="UIManager.cs" t="Include" />
             <e p="Unit.cs" t="Include" />
           </e>
+          <e p="Decorator" t="Include">
+            <e p="Mark42.cs" t="Include" />
+            <e p="SuperHero.cs" t="Include" />
+            <e p="SuperSuit.cs" t="Include" />
+            <e p="Tony.cs" t="Include" />
+          </e>
           <e p="Enemy" t="Include">
             <e p="CommonEnemy.cs" t="Include" />
             <e p="EnemyAttack.cs" t="Include" />
